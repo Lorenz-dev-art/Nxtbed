@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Bedwars Academy",
+  "description": "Um guia completo de dicas e estratégias para dominar no Bedwars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
